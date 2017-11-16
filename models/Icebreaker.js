@@ -1,4 +1,4 @@
-'use strict';
+const Question = require('./Question.js')
 
 
 class Icebreaker{
@@ -8,5 +8,3 @@ class Icebreaker{
 }
 
 module.exports = Icebreaker
-const Question = require(',/Question.js')
-
